@@ -15,5 +15,6 @@ Welcome to Triveous News App – your go-to platform for staying informed and co
 - **OAuth (Google Login):** Secure and convenient Google authentication for user login.
 
 ### Live Link:
+https://news-app-five-liart.vercel.app/
 
 
